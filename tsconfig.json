@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "target": "esnext",
+    "jsx": "react",
+    "lib": ["dom", "es2015", "es2017"],
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["./src/**/*"]
+}
