@@ -14,11 +14,17 @@
   },
   "dependencies": {
     "gatsby": "^2.1.37",
+    "gatsby-plugin-tslint": "^0.0.2",
+    "gatsby-plugin-typescript": "^2.0.11",
     "react": "^16.8.4",
     "react-dom": "^16.8.4"
   },
   "devDependencies": {
-    "prettier": "^1.16.4"
+    "prettier": "^1.16.4",
+    "tslint": "^5.14.0",
+    "tslint-loader": "^3.5.4",
+    "tslint-react": "^3.6.0",
+    "typescript": "^3.3.3333"
   },
   "repository": {
     "type": "git",
